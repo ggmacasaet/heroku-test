@@ -1,0 +1,29 @@
+{
+  "format": "browser-program-pre1",
+  "page": "app.html",
+  "manifest": [
+    {
+      "path": "a700d385aa1f3d58a13f75be7546eb370e63fbd1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/a700d385aa1f3d58a13f75be7546eb370e63fbd1.js",
+      "size": 290201,
+      "hash": "a700d385aa1f3d58a13f75be7546eb370e63fbd1"
+    },
+    {
+      "path": "da39a3ee5e6b4b0d3255bfef95601890afd80709.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/da39a3ee5e6b4b0d3255bfef95601890afd80709.css",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "app.html",
+      "where": "internal",
+      "hash": "4dc04689922837d57e36eca7f17259acfacf509c"
+    }
+  ]
+}
